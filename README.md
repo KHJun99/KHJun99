@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&&fontColor=색상&height=300&section=header&text=Welcome&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=363636&height=300&section=header&text=Joonas%20GitHub&fontSize=90)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHJune99&show_icons=true&theme=dracula)
 
