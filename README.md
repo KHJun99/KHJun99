@@ -9,4 +9,6 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eoeksgkswlq)](https://solved.ac/eoeksgkswlq)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=eoeksgkswlq&theme=dark)
+<img src="http://mazandi.herokuapp.com/api?handle=eoeksgkswlq&theme=dark"/>
     </div>
