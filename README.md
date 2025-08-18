@@ -7,5 +7,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHJune99&layout=compact&bg_color=180,fecdcd,00000000&title_color=000000&text_color=000000"/> 
     </div> 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=eoeksgkswlq)](https://solved.ac/eoeksgkswlq)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=eoeksgkswlq)](https://solved.ac/eoeksgkswlq)
     </div>
