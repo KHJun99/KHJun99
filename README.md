@@ -5,4 +5,4 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eoeksgkswlq)](https://solved.ac/eoeksgkswlq) <img src="http://mazandi.herokuapp.com/api?handle=eoeksgkswlq&theme=dark"/>
     </div>
-    ![](./profile-3d-contrib/profile-night-view.svg)
+    ![](./profile-3d-contrib/profile-night-rainbow.svg)
