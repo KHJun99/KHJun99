@@ -112,8 +112,8 @@ AI 기반 스마트 여행 계획 애플리케이션.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KHJun99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHJun99&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KHJun99&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KHJun99&theme=tokyonight" height="165"/>
 </div>
 
 <br/>
