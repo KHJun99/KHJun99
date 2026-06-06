@@ -92,6 +92,22 @@ Physical AI 기반 듀얼암 데스크 로봇. 음성 명령으로 물체를 집
 
 <br/>
 
+### 🛒 [Carter Garden](https://github.com/KHJun99/Carter-Garden) — LiDAR SLAM 자율주행 스마트 쇼핑카트
+> SSAFY 프로젝트 (6인 팀)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+LiDAR SLAM 기반 자율주행 + RFID 장바구니 + 사람 추종 스마트 쇼핑카트 PoC.
+
+- 🗺 LiDAR SLAM 기반 지도 생성 및 Nav2 자율 내비게이션 구현
+- 🧍 YOLO TensorRT + OSNet ReID 기반 사람 추종 (포텐셜 필드 + PID)
+- 🤖 Jetson Orin Nano 임베디드 제어 (모터 · 인코더 · IMU 통합)
+
+<br/>
+
 ### ✈️ [Tripify](https://github.com/KHJun99/Tripify) — AI 여행 계획 앱
 > SSAFY 프로젝트 (2인 팀)
 
