@@ -93,7 +93,7 @@ Physical AI 기반 듀얼암 데스크 로봇. 음성 명령으로 물체를 집
 
 <br/>
 
-### 🛒 [Carter Garden](https://github.com/KHJun99/Carter-Garden) — LiDAR SLAM 자율주행 스마트 쇼핑카트
+### 🛒 Carter Garden — LiDAR SLAM 자율주행 스마트 쇼핑카트
 > SSAFY 프로젝트 (6인 팀)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
