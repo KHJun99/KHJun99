@@ -21,4 +21,5 @@ jobs:
           git config user.email KHJune99@github.com
           git add -A .
           git commit -m "generated"
+          git pull --rebase
           git push
