@@ -55,7 +55,7 @@
 
 ## 🚀 Projects
 
-### 🦾 Jabis (잡이s) — Physical AI 듀얼암 데스크 로봇
+### 🦾 [Jabis (잡이s)](https://github.com/KHJun99/S14P31D101) — Physical AI 듀얼암 데스크 로봇
 > SSAFY 14기 파이널 프로젝트
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -75,7 +75,7 @@ Physical AI 기반 듀얼암 데스크 로봇. 음성 명령으로 물체를 집
 
 <br/>
 
-### 🚗 자리차지 (Zari-Charge) — 스마트 무인 주차 관제 시스템
+### 🚗 [자리차지 (Zari-Charge)](https://github.com/KHJun99/S14P21D203) — 스마트 무인 주차 관제 시스템
 > SSAFY 14기 자율주행 프로젝트
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -93,7 +93,7 @@ Physical AI 기반 듀얼암 데스크 로봇. 음성 명령으로 물체를 집
 
 <br/>
 
-### 🛒 Carter Garden — LiDAR SLAM 자율주행 스마트 쇼핑카트
+### 🛒 [Carter Garden](https://github.com/KHJun99/S14P11D201) — LiDAR SLAM 자율주행 스마트 쇼핑카트
 > SSAFY 프로젝트 (6인 팀)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
